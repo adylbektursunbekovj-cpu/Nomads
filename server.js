@@ -14,7 +14,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 const db = mysql.createPool({
   host: 'localhost',
   user: 'root',
-  password: 'Ares_8917',
+  password: 'Ares_89172004',
   database: 'nomads'
 });
 
@@ -138,3 +138,4 @@ app.post('/api/orders/:id/status', (req, res) => {
 // ----------------- Запуск сервера -----------------
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
+
