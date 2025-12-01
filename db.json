@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "HBPKcemhItI4JcJTtJYjZ",
+      "name": "Admin",
+      "phone": "+10000000000",
+      "passwordHash": "$2b$10$GRcIRajpXoDZgIR35Hb88O/4ofFhEbnRNXMwlEApY3uRrQXl/ypdu",
+      "role": "admin"
+    },
+    {
+      "id": "8gOuBZuklcIpyO0Ai5USz",
+      "name": "Courier One",
+      "phone": "+10000000001",
+      "passwordHash": "$2b$10$0mT5LZgkin46Hf9YSD6VxuFvVAHAKy0m.7dIK09qlyuoFnKZjy/Ly",
+      "role": "courier"
+    }
+  ],
+  "orders": [],
+  "shifts": []
+}
